@@ -2,14 +2,22 @@
 
 This tool is broader than just AI training. It can monitor GPUs for:
 
-AI/ML Training ✓ (PyTorch, TensorFlow, JAX)
-AI Inference ✓ (Running models in production)
-Scientific Computing ✓ (CUDA simulations, computational physics)
-3D Rendering ✓ (Blender, Maya, etc.)
-Video Processing ✓ (Encoding, transcoding)
-Cryptocurrency Mining ✓ (If that's your thing)
-Gaming Performance ✓ (Monitor while gaming)
-General GPU Benchmarking ✓
+AI/ML Training  (PyTorch, TensorFlow, JAX)
+
+AI Inference  (Running models in production)
+
+Scientific Computing  (CUDA simulations, computational physics)
+
+3D Rendering (Blender, Maya, etc.)
+
+Video Processing  (Encoding, transcoding)
+
+Cryptocurrency Mining  (If that's your thing)
+
+Gaming Performance  (Monitor while gaming)
+
+General GPU Benchmarking 
+
 Here are some useful technical diagrams for the GPU monitoring system architecture and workflows:
 
 ## Diagram 1: System Architecture & Components

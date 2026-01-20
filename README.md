@@ -1,5 +1,12 @@
 # Parallel GPU Monitor - Architecture Diagrams
 
+## 📊 GPU Monitoring — `parallel_gpu_monitor.py`
+
+As part of the **AI-Researcher-Workbench** project a research-friendly template and utility collection for reproducible AI experiments I contributed the script **`parallel_gpu_monitor.py`**.
+This utility helps researchers track GPU usage across multiple devices, especially when running experiments or training models that rely on CUDA-enabled hardware.
+
+🔗 **Repository:** [https://github.com/SteveProkovas/AI-Researcher-Workbench](https://github.com/SteveProkovas/AI-Researcher-Workbench) ([GitHub][1])
+
 This tool is broader than just AI training. It can monitor GPUs for:
 
 AI/ML Training  (PyTorch, TensorFlow, JAX)

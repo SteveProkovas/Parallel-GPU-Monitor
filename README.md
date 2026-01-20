@@ -20,6 +20,24 @@ General GPU Benchmarking
 
 Here are some useful technical diagrams for the GPU monitoring system architecture and workflows:
 
+## Adjusting the Number of Epochs
+
+To change the number of training epochs, update the range() value in the training loop.
+
+## Simulate training loop
+print("\n🏋️  Starting training simulation...")
+for epoch in range(100):
+    print(f"\nEpoch {epoch + 1}/100")
+
+
+Simply replace 100 with your desired number of epochs.
+For example, to run 50 epochs, change it to:
+
+for epoch in range(50):
+
+
+This will control how many training iterations the simulation runs.
+
 ## Diagram 1: System Architecture & Components
 
 ```mermaid
